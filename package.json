@@ -14,5 +14,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/kennethlarsen/lazy-cli.git"
-  }
+  },
+  "preferGlobal": "true"
 }
