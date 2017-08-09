@@ -1,6 +1,6 @@
 {
   "name": "lazy-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool which can be used for generating react, reflux and scss templates at YouSee",
   "bin": {
     "lazy-cli": "bin/lazy-cli.js"
@@ -11,9 +11,8 @@
   },
   "author": "Kenneth Larsen",
   "license": "ISC",
-  "repository" :
-	  { "type" : "git"
-	  , "url" : "https://github.com/kennethlarsen/lazy-cli.git"
-	  }
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennethlarsen/lazy-cli.git"
+  }
 }
