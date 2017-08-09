@@ -1,8 +1,11 @@
 {
   "name": "lazy-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool which can be used for generating react, reflux and scss templates at YouSee",
-  "main": "index.js",
+  "bin": {
+    "lazy-cli": "bin/lazy-cli.js"
+  },
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
