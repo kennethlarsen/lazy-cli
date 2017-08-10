@@ -1,6 +1,3 @@
 #!/usr/bin/env node
- 
-var lib= require('../lib/index.js');
-var cli = lib.generate();
 
-console.log(cli);
+var lib= require('../lib/index.js');
