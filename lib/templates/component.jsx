@@ -14,3 +14,5 @@ export class test extends Reflux.Component {
         return ();
     }
 }
+
+export default test;
