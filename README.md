@@ -1,5 +1,5 @@
 # This is a work in progress
-This tool might not be good for you now. It's made very specifically for my workflow at YouSee. I might improve on this in the future.
+This tool might not be good for you now. It's made specifically for my workflow at YouSee. I might improve on this in the future.
 
 # What is this?
 We work with a React, reflux and a tiresome folder structure. Since I'm lazy I want to automate this. So I made this cli for generating react components with stores and actions in the proper domain folder and with templates and imports. 
