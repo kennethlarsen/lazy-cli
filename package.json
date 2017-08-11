@@ -1,6 +1,6 @@
 {
   "name": "lazy-cli",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A CLI tool which can be used for generating react, reflux and scss templates at YouSee",
   "bin": {
     "lazy-cli": "bin/lazy-cli.js"
