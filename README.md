@@ -8,8 +8,8 @@ We work with a React, reflux and a tiresome folder structure. Since I'm lazy I w
 `npm install -g lazy-cli`
 
 # How do I use it?
-Right now the cli only works with our domain structure.
-
 You need to `cd` to a folder (`/FrontendClient/src/project`) with access to `components/` and `flux/` and then type `lazy-cli`. From there you can pick your domain and component name and that's it. :star:
+
+Right now the cli works with our domain structure. If you don't use domain folder just press 'enter' when asked which domain to use. That will create the files in `component/`, `flux/actions` and `flux/stores`.
 
 Be aware that the current import paths are set to the Yousee Sales path.
